@@ -29,7 +29,11 @@
     "expect": "^1.20.2",
     "jsdom": "^11.11.0",
     "mocha": "^2.4.5",
+<<<<<<< HEAD
     "mocha-jsdom": "^1.0.0",
+=======
+    "mocha-jsdom": "^1.2.0",
+>>>>>>> 871110a633c78a8bf95f6f1c73ca7a5652ae4f2d
     "mocha-multi": "^0.9.0"
   }
 }
